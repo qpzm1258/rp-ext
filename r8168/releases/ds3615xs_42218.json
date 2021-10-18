@@ -21,7 +21,7 @@
   },
 
     "scripts": {
-    "on_boot": "check-r8168.sh"
+    "check_kmod": "check-r8168.sh"
   }
 
 }
